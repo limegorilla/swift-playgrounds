@@ -4,7 +4,7 @@
  You'll want to open these using either Xcode, or using Playgrounds (which is also available for iPad)
 
   File | Contents 
--------------------
+-------|-----------
  First Module | N/A
  Second Module | Variables, Constants and Arrays
  Third Module | If, Switching, Loops, Ranges & Interpolation
