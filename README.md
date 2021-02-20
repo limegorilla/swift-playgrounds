@@ -11,3 +11,4 @@
  Fourth Module | Functions
  Fifth Module | Defining your own datatypes
  Sixth Module | Closures
+ Seventh Module | Classes, Refrences, Methods, Extentions & Computed properties
